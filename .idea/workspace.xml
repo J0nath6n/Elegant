@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279ccfa6-d4cb-4c72-9068-42d2f9a7fe5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/css/style.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kkj037PdXHhSnl7bo23EI9Ye7v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Работы\New Project\Elegant\css\js" />
+      <recent name="D:\Работы\New Project\Elegant\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279ccfa6-d4cb-4c72-9068-42d2f9a7fe5b" name="Default Changelist" comment="" />
+      <created>1606251256352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606251256352</updated>
+      <workItem from="1606251258617" duration="15955000" />
+      <workItem from="1606398536332" duration="13692000" />
+      <workItem from="1606426011183" duration="15698000" />
+      <workItem from="1607035715966" duration="2014000" />
+      <workItem from="1607063348346" duration="5264000" />
+      <workItem from="1607202665317" duration="16682000" />
+      <workItem from="1607441465125" duration="7931000" />
+    </task>
+    <task id="LOCAL-00001" summary="button end">
+      <created>1606511064669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606511064669</updated>
+    </task>
+    <task id="LOCAL-00002" summary="menu logo add &#10;(need to work before)">
+      <created>1606589454675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606589454676</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;completely reloaded the code">
+      <created>1607035864221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607035864221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&#10;completely reloaded the code">
+      <created>1607035981709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607035981709</updated>
+    </task>
+    <task id="LOCAL-00005" summary="completely reloaded the code">
+      <created>1607036138782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607036138782</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a class in workers - for connecting the font style">
+      <created>1607065719440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607065719440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="end section post">
+      <created>1607204941143</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607204941143</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add text-wrap">
+      <created>1607415202434</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607415202434</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add scripts">
+      <created>1607418276732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418276732</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add button" />
+    <MESSAGE value="add end button" />
+    <MESSAGE value="button end" />
+    <MESSAGE value="menu logo add &#10;(need to work before)" />
+    <MESSAGE value="&#10;completely reloaded the code" />
+    <MESSAGE value="completely reloaded the code" />
+    <MESSAGE value="Added a class in workers - for connecting the font style" />
+    <MESSAGE value="end section post" />
+    <MESSAGE value="add text-wrap" />
+    <MESSAGE value="add scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add scripts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="82" width="749" height="767" key="CommitChangelistDialog2" timestamp="1607418275592">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606589452925" />
+    <state x="419" y="82" width="749" height="767" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1607418275592" />
+    <state x="129" y="53" key="DiffContextDialog" timestamp="1606426757827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="53" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1606426757827" />
+    <state x="488" y="138" key="FileChooserDialogImpl" timestamp="1607371846933">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606661286747" />
+    <state x="488" y="138" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1607371846933" />
+    <state x="136" y="68" key="MergeDialog" timestamp="1607036053109">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="136" y="68" key="MergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1607036053109" />
+    <state x="432" y="146" key="MultipleFileMergeDialog" timestamp="1607036057139">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="432" y="146" key="MultipleFileMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1607036057139" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607441693044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607441693044" />
+    <state x="290" y="99" key="Vcs.Push.Dialog.v2" timestamp="1607418278443">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606589457790" />
+    <state x="290" y="99" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607418278443" />
+    <state x="398" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1607202676439">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606426459401" />
+    <state x="398" y="220" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1607202676439" />
+    <state x="357" y="185" key="run.anything.popup" timestamp="1607205281764">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606253120767" />
+    <state x="357" y="185" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1607205281764" />
+  </component>
+</project>
