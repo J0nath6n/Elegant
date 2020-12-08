@@ -17,7 +17,6 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,14 +42,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Работы\New Project\Elegant\css\js" />
-      <recent name="D:\Работы\New Project\Elegant\css" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -67,9 +59,10 @@
       <workItem from="1606398536332" duration="13692000" />
       <workItem from="1606426011183" duration="15698000" />
       <workItem from="1607035715966" duration="2014000" />
-      <workItem from="1607063348346" duration="5264000" />
-      <workItem from="1607202665317" duration="16682000" />
-      <workItem from="1607441465125" duration="10816000" />
+      <workItem from="1607063348346" duration="2141000" />
+      <workItem from="1607154102350" duration="198000" />
+      <workItem from="1607154308083" duration="536000" />
+      <workItem from="1607373540856" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="button end">
       <created>1606511064669</created>
@@ -106,35 +99,7 @@
       <option name="project" value="LOCAL" />
       <updated>1607036138782</updated>
     </task>
-    <task id="LOCAL-00006" summary="Added a class in workers - for connecting the font style">
-      <created>1607065719440</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1607065719440</updated>
-    </task>
-    <task id="LOCAL-00007" summary="end section post">
-      <created>1607204941143</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1607204941143</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add text-wrap">
-      <created>1607415202434</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1607415202434</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add scripts">
-      <created>1607418276732</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607418276732</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,27 +112,23 @@
     <MESSAGE value="menu logo add &#10;(need to work before)" />
     <MESSAGE value="&#10;completely reloaded the code" />
     <MESSAGE value="completely reloaded the code" />
-    <MESSAGE value="Added a class in workers - for connecting the font style" />
-    <MESSAGE value="end section post" />
-    <MESSAGE value="add text-wrap" />
-    <MESSAGE value="add scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="completely reloaded the code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="419" y="82" width="749" height="767" key="CommitChangelistDialog2" timestamp="1607418275592">
+    <state x="325" y="0" key="CommitChangelistDialog2" timestamp="1607036137724">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606589452925" />
-    <state x="419" y="82" width="749" height="767" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1607418275592" />
+    <state x="325" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1607036137724" />
     <state x="129" y="53" key="DiffContextDialog" timestamp="1606426757827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="53" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1606426757827" />
-    <state x="488" y="138" key="FileChooserDialogImpl" timestamp="1607371846933">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1607460309908">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606661286747" />
-    <state x="488" y="138" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1607371846933" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607460309908" />
+    <state x="488" y="138" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1606409224467" />
     <state x="136" y="68" key="MergeDialog" timestamp="1607036053109">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -176,24 +137,19 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="432" y="146" key="MultipleFileMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1607036057139" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1607441693044">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607441693044" />
-    <state x="290" y="99" key="Vcs.Push.Dialog.v2" timestamp="1607418278443">
+    <state x="290" y="99" key="Vcs.Push.Dialog.v2" timestamp="1607036141131">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606589457790" />
-    <state x="290" y="99" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607418278443" />
-    <state x="398" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1607202676439">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="290" y="99" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607036141131" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1607373539144">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606426459401" />
-    <state x="398" y="220" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1607202676439" />
-    <state x="357" y="185" key="run.anything.popup" timestamp="1607205281764">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607373539144" />
+    <state x="398" y="220" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1607063353823" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1606253120767">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606253120767" />
-    <state x="357" y="185" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1607205281764" />
   </component>
 </project>
