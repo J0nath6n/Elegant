@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="279ccfa6-d4cb-4c72-9068-42d2f9a7fe5b" name="Default Changelist" comment="" />
+    <list default="true" id="279ccfa6-d4cb-4c72-9068-42d2f9a7fe5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,7 @@
       <workItem from="1607154102350" duration="198000" />
       <workItem from="1607154308083" duration="536000" />
       <workItem from="1607373540856" duration="103000" />
+      <workItem from="1607460317130" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="button end">
       <created>1606511064669</created>
@@ -99,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607036138782</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add menu-burger js">
+      <created>1607460372789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607460372789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,13 +122,14 @@
     <MESSAGE value="menu logo add &#10;(need to work before)" />
     <MESSAGE value="&#10;completely reloaded the code" />
     <MESSAGE value="completely reloaded the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="completely reloaded the code" />
+    <MESSAGE value="add menu-burger js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add menu-burger js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="0" key="CommitChangelistDialog2" timestamp="1607036137724">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1607460368524">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606589452925" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607460368524" />
     <state x="325" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1607036137724" />
     <state x="129" y="53" key="DiffContextDialog" timestamp="1606426757827">
       <screen x="0" y="0" width="1366" height="728" />
@@ -137,10 +148,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="432" y="146" key="MultipleFileMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1607036057139" />
-    <state x="290" y="99" key="Vcs.Push.Dialog.v2" timestamp="1607036141131">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1607460380099">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606589457790" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607460380099" />
     <state x="290" y="99" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607036141131" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1607373539144">
       <screen x="0" y="0" width="1366" height="728" />
