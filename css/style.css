@@ -183,7 +183,7 @@ h1 b i {
     text-align: center;
 }
 
-.workers.h2 {
+.workers h2 {
     color: #4d5c66;
     font-size:35px;
     padding-top: 22px;
@@ -440,6 +440,108 @@ footer .container.d-flex {
     font-size: 43px;
 
 }
+
+
+.owl-dots .owl-dot.active span {
+    background-color: black;
+    outline: none;
+}
+
+.sidebar-blog {
+    width: 25%;
+}
+
+.ui-widget-header {
+    border: none;
+    background: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    font-size:24px;
+    padding: 40px;
+}
+
+.ui-button {
+    display: none;
+}
+
+.ui-dialog {
+    max-width: 750px;
+    padding: 0;
+}
+
+.ui-dialog .ui-dialog-litle {
+    float: none;
+}
+
+.ui-widget.ui-widget-content {
+    border: none;
+
+}
+
+.ui-dialog .ui-dialog-litlebar {
+    padding: 40px;
+}
+
+.input-email label {
+    display: block;
+    margin-right: 53px;
+    font-size:17px;
+    color:black;
+    text-align: center;
+}
+
+.input-email {
+    display: flex;
+    justify-content: center;
+    padding: 40px 15px;
+}
+
+.or {
+    margin-bottom: 30px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.reset-password button {
+    margin: 0 auto 30px;
+    display: block;
+    min-width: 530px;
+    border: none;
+    background: linear-gradient(to right, #d7d7d7d, #b7b7b7);
+    padding: 20px;
+    font-size: 20px;
+    color: #000000;
+    outline: none;
+}
+
+.log-in-using-f {
+    text-align: center;
+    max-width: 530px;
+    margin: 0 auto 165px;
+}
+
+.log-in-using-f a {
+    display: block;
+    color: #FFFFFF;
+    font-size: 24px;
+    text-decoration: none;
+    background: linear-gradient(to right, #567cce, #4865a3);
+    width: 530px;
+    padding: 18px;
+}
+
+#opener {
+    background: none;
+    font-size: 24px;
+    color: #021725;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
 /*menu*/
 
 nav {

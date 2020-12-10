@@ -10,8 +10,11 @@
     <script src="https://kit.fontawesome.com/1b2736fb37.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="js/owl.carousel.css">
     <link rel="stylesheet" href="js/owl.theme.default.css">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media-queries.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://resources/demos/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
@@ -103,8 +106,22 @@
             modo
             typi, qui nunc, fiant sollemnes in futurum.</p>
 
-        <a href="#">Read More About Us </a>
-
+        <div class="link-center">
+            <div id="dialog" title="FORGOT YOUR PASSWORD?">
+                <form method="post" action="#" name="reset-password-wrap" class="reset-password">
+                    <div class="input-email">
+                        <label for="email-for-reset-password">ENTER YOUR<br>EMAIL</label>
+                        <input type="email" id="email-for-reset-password">
+                    </div>
+                    <button type="submit" name="reset-password">RESET PASSWORD</button>
+                    <p class="or">OR</p>
+                    <p class="log-in-using-f">
+                        <a href="https://m.facebook.com/"><i class="fab fa-facebook-f"></i> Log In Using Facebook</a>
+                    </p>
+                </form>
+            </div>
+            <button id="opener" class="more">Read More About Us</button>
+        </div>
     </div>
 
 </section>
@@ -115,7 +132,6 @@
         <h2>Show Your Amazing Work</h2>
     </div>
     <div class="wrapper ">
-
         <div class="img-wrapp">
             <div class="img-holder">
                 <img src="images/logo_m1.jpg" alt="foto1">
@@ -285,6 +301,8 @@
 </footer>
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"
         integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="js/owl.carousel.js"></script>
 <script src="js/scripts.js"></script>
 </body>
