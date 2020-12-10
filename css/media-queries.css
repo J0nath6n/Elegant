@@ -37,10 +37,12 @@ main {
         line-height: 24px;
         padding-bottom: 52px;
     }
-    .about .container a{
+
+    .about .container a {
         font-size: 13px;
         padding: 1.3em 2.9em;
     }
+
     .workers {
         padding: 81px 15px;
     }
@@ -48,18 +50,50 @@ main {
     .workers .container {
         max-width: 760px;
     }
+
     .workers h2 {
-        font-size:35px;
+        font-size: 35px;
         padding-top: 22px;
         letter-spacing: .2rem;
     }
+
     .workers h3 {
         font-size: 12px;
         padding-bottom: 12px;
     }
+
     .workers p {
         margin-bottom: 50px;
         padding-top: 46px;
+    }
+
+    .post {
+        padding: 80px 15px;
+        text-align: center;
+    }
+    .post .container h3 {
+        font-size: 12px;
+        padding-bottom: 12px;
+        text-transform: uppercase;
+    }
+    .post .container h2 {
+        color: #4d5c66;
+        font-size:35px;
+        padding-top: 22px;
+        font-family: "Open Sans";
+        font-weight: bold;
+        letter-spacing: .2rem;
+    }
+    .pic {
+        display: flex;
+        padding-top: 53px;
+    }
+    footer {
+        height: 93px;
+    }
+
+    footer .container.d-flex {
+        justify-content: space-between;
     }
 }
 @media only screen and (max-width: 420px) {
@@ -84,6 +118,11 @@ main {
 @media only screen and (max-width: 360px) {
     .img-holder{
         width: 25%;
+    }
+    .desc {
+        padding-top: 43px;
+        text-align: left;
+        padding-left: 41px;
     }
 }
 @media only screen and (max-width: 240px) {
@@ -117,9 +156,6 @@ main {
     .workers .item p {
         font: 13px/21px 'Open Sans', sans-serif;
         margin-bottom: 0;
-    }
-    footer {
-        height: 93px;
     }
     .container.d-flex {
         padding: 42px 15px 38px 41px;
