@@ -1,22 +1,128 @@
-@media only screen and (max-width: 1024px) {
-
+@media only screen and (max-width: 1188px) {
+main {
+    height: 100vh;
+}
+    header .container{
+        max-width: 118px;
+        margin: auto;
+    }
+    .wrapper {
+        width: 1188px;
+        margin: auto;
+        padding-top: 96px;
+    }
+    .img-wrapp.img-holder img {
+        display: block;
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 992px) {
 
 }
 @media only screen and (max-width: 767px) {
-.block {
-}
+    .container {
+        max-width: 769px;
+        margin: auto;
+        padding-top: 81px;
+        text-align: center;
+    }
+
+    .about .container h3 {
+        font-size: 12px;
+        padding-bottom: 12px;
+    }
+
+    .about .container p {
+        padding-top: 55px;
+        line-height: 24px;
+        padding-bottom: 52px;
+    }
+    .about .container a{
+        font-size: 13px;
+        padding: 1.3em 2.9em;
+    }
+    .workers {
+        padding: 81px 15px;
+    }
+
+    .workers .container {
+        max-width: 760px;
+    }
+    .workers h2 {
+        font-size:35px;
+        padding-top: 22px;
+        letter-spacing: .2rem;
+    }
+    .workers h3 {
+        font-size: 12px;
+        padding-bottom: 12px;
+    }
+    .workers p {
+        margin-bottom: 50px;
+        padding-top: 46px;
+    }
 }
 @media only screen and (max-width: 420px) {
 
 }
 @media only screen and (max-width: 375px) {
+    .text-holder{
+        width: 50%;
 
+    }
+    .text-wrap h6{
+        padding-bottom: 49px;
+        font-family: 'Open Sans';
+        font-size: 12px;
+        color: #505d68;
+    }
+    .text-wrapp.text-holder  {
+        display: block;
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 360px) {
-
+    .img-holder{
+        width: 25%;
+    }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 240px) {
+    .workers .item {
+        max-width: 246px;
+        margin-right: 5px;
+    }
+
+    .workers .item img {
+        width: 100%;
+        display: block;
+    }
+
+    .workers .item div {
+        padding: 20px 16px 48px;
+    }
+
+    .workers.item h3 {
+        margin-bottom: 24px;
+    }
+
+    .text p {
+
+        font-size: 12px;
+    }
+
+    .text h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .workers .item p {
+        font: 13px/21px 'Open Sans', sans-serif;
+        margin-bottom: 0;
+    }
+    footer {
+        height: 93px;
+    }
+    .container.d-flex {
+        padding: 42px 15px 38px 41px;
+    }
 
 }

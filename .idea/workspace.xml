@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279ccfa6-d4cb-4c72-9068-42d2f9a7fe5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <workItem from="1607154102350" duration="198000" />
       <workItem from="1607154308083" duration="536000" />
       <workItem from="1607373540856" duration="103000" />
-      <workItem from="1607460317130" duration="6308000" />
+      <workItem from="1607460317130" duration="11863000" />
     </task>
     <task id="LOCAL-00001" summary="button end">
       <created>1606511064669</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607587288647</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add button (pass)">
+      <created>1607591070740</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607591070741</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,13 +162,14 @@
     <MESSAGE value="add menu-burger js" />
     <MESSAGE value="add cr js" />
     <MESSAGE value="add RL menu js end" />
-    <option name="LAST_COMMIT_MESSAGE" value="add RL menu js end" />
+    <MESSAGE value="add button (pass)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add button (pass)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1607587284424">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1607591067848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607587284424" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607591067848" />
     <state x="325" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1607036137724" />
     <state x="129" y="53" key="DiffContextDialog" timestamp="1606426757827">
       <screen x="0" y="0" width="1366" height="728" />
@@ -182,10 +188,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="432" y="146" key="MultipleFileMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1607036057139" />
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1607587290641">
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1607591072944">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607587290641" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607591072944" />
     <state x="290" y="99" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1607036141131" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1607373539144">
       <screen x="0" y="0" width="1366" height="728" />

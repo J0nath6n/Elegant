@@ -167,7 +167,6 @@ h1 b i {
 }
 .img-holder{
     width: 25%;
-
 }
 .img-wrapp.img-holder img {
     display: block;
@@ -211,12 +210,6 @@ h1 b i {
 .workers .item {
     max-width: 246px;
     margin-right: 5px;
-}
-
-
-.workers .item {
-    max-width: 246px;
-    margin-bottom: 5px;
 }
 
 .workers .item img {
