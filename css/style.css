@@ -411,22 +411,20 @@ footer .container.d-flex {
     font-weight: 300;
 }
 
-.owl-nav .owl-prew {
+.owl-nav .owl-prev {
    color: black;
     position: absolute;
     left: -80px;
     top:200px;
     outline: none;
 }
-.owl-nav .owl-prew:before{
+.owl-nav .owl-prev:before{
     content: "\f053";
     font-weight: 900;
-    font-family: "Traditional Arabic";
+    font-family: "Font Awesome 5 Free";
     font-size: 43px;
 }
-.owl-nav .owl-prew:focus:before{
-    outline: none;
-}
+
 .owl-nav .owl-next {
     position: absolute;
     right: -80px;
@@ -438,7 +436,7 @@ footer .container.d-flex {
 .owl-nav .owl-next:before{
     content: "\f053";
     font-weight: 900;
-    font-family: "Traditional Arabic";
+    font-family: "Font Awesome 5 Free";
     font-size: 43px;
 
 }
